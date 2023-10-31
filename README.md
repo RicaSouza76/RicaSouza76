@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 Meu e-mail : ricardo.souza1@aluno.ifsp.edu.br
 
 <div>
-  <a href="https://github.com/RicaSouza">
+  <a href="https://github.com/RicaSouza76/RicaSouza76.git">
   <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=RicaSouza&theme=dark&show_icons=true"/>
   <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=RicaSouza&layout=compact&langs_count=16&theme=dark"/>
 
