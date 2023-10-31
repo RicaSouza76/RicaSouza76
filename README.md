@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/RicaSouza76">
-  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=RicaSouza76a&theme=dark&show_icons=true"/>
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=RicaSouza76&theme=dark&show_icons=true"/>
   <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=RicaSouza76&layout=compact&langs_count=16&theme=dark"/></a>
  </div>
 
