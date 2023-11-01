@@ -1,4 +1,4 @@
-### Olá sou Ricardo Alexandre de Souza 👋
+### Olá, sou Ricardo Alexandre de Souza 👋
 **RicaSouza76/RicaSouza76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
