@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 Estou atualmente trabahando na Sonda do Brasil como Analisata Funcional
 - 🌱 Estou Estudando Análise e Desenvolvimento de Sistema no IFSP de Bragança Paulista - SP
-- 📫 Meu e-mail : ricardo.souza1@aluno.ifsp.edu.br
+- 📫 Meu e-mail : rica.souza76@gmail.com
 
 <div>
   <a href="https://github.com/RicaSouza76">
